@@ -81,4 +81,5 @@ You've successfully run and modified your React Native App. :partying_face:
 ### The screenshot of Mobile
 
 
-![image](https://github.com/user-attachments/assets/dcc6fba6-2ef9-4d5a-8eb6-4cb79a38f199)
+![Screenshot 2025-05-20 165449](https://github.com/user-attachments/assets/49c31a33-23ed-45a8-a1e6-3ea1fe36aa19)
+
